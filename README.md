@@ -1,1 +1,2 @@
-# Fantasy-cricket-GUI-app
+# Fantasy-Cricket-Game
+Fantasy Cricket game
